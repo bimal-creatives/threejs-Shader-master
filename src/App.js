@@ -87,7 +87,7 @@ const Scene = () => {
 const App = () => {
   return (
     <>
-      <h1>POMADA MODELADORA</h1>
+      <h1>Hello World</h1>
       <Scene />
     </>
   );
